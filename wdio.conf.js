@@ -21,7 +21,7 @@ exports.config = {
     // will be called from there.
     //
     specs: [
-        './test/specs/key_actions.js'
+        './test/specs/demoqa/widgets.js'
     ],
     // Patterns to exclude.
     exclude: [
